@@ -1,4 +1,4 @@
-# DSA-IN-PYTHON-
+# DSA-IN-PYTHON
 
 Data Structures and Algorithms (DSA) in Python play a crucial role in solving computational problems efficiently.
 
